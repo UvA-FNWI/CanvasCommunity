@@ -14,11 +14,11 @@ Conventions support consistency between scripts, decreases the numbers of lines 
 
 Top level Directories in this repo and their purpose:
 
-1. [***presentations/***](presentations/README.md) - copies of slides.
-2. [***docs/***](docs/README.md) - documentation etc for the technical infrastructure.
-3. [***src/***](src/README.md) - a place where each faculty can deposit outputs of any kind, from photographs of flipcharts to working code. 
-4. [***data/***](data/README.md) - location of any example data needed by the scripts.
-5. [***lib/***](lib/README.md) - Common libraries developed within ***\@NL***
+1. [presentations/](presentations/README.md) - copies of slides.
+2. [docs/](docs/README.md) - documentation etc for the technical infrastructure.
+3. [src/](src/README.md) - a place where each faculty can deposit outputs of any kind, from photographs of flipcharts to working code. 
+4. [data/](data/README.md) - location of any example data needed by the scripts.
+5. [lib/](lib/README.md) - Common libraries developed within ***\@NL***
 
 Please do not directly place your code etc in these directories. Please divid up further in sub directories based on your organisational structure.
 
