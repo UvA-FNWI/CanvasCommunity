@@ -7,7 +7,8 @@ This is a Publically viewable Github to support the sharing of code associated w
 
 Conventions support consistency between scripts, decreases the numbers of lines of code and in general improve quality.
 
-[List of Conventions](CONVENTIONS.md)
+* [List of Conventions](CONVENTIONS.md)
+* [Best Practices](BestPractices.md)
 
 
 ## Structure of the Repository
@@ -34,4 +35,6 @@ Please take care not to disclose any person-identifying information, or to trans
 
 ## Support
 
-To revoke developer keys or general functional admin questions, [Contact](http://naarcanvas.uva.nl/en/organisation-and-contact/organisation-and-contact.html) details
+1. To revoke developer keys or general functional admin questions, [Contact](http://naarcanvas.uva.nl/en/organisation-and-contact/organisation-and-contact.html) details
+2. [Course in Canvas](https://canvas.uva.nl/courses/8087) as a source of information and discussion, *still to be published*
+3. [Instructures](https://www.canvaslms.com/policies/api-policy) fair use policy
