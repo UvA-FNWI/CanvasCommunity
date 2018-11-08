@@ -1,11 +1,13 @@
 ## Canvas Community
 
-This is a Publically viewable Github to support the sharing of code associated with working Canvas ***\@UvA***
+This is a Publically viewable Github to support the sharing of code associated with working Canvas ***\@NL***
 
 
 ## Conventions
 
 Conventions support consistency between scripts, decreases the numbers of lines of code and in general improve quality.
+
+[List of Conventions](CONVENTIONS.md)
 
 
 ## Structure of the Repository
@@ -31,3 +33,5 @@ Please take care not to disclose any person-identifying information, or to trans
 
 
 ## Support
+
+[Contact](http://naarcanvas.uva.nl/en/organisation-and-contact/organisation-and-contact.html) details
